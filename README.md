@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jvlax-y
-- 👀 I’m interested in learning how to make website or game or anythin use conding
-- 🌱 I’m currently learning html (still beginner)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning how to make coding
+- 🌱 I’m currently learning c++/c, c#
 - 📫 How to reach me: email: ifahanifah69@gmail.com
 
 <!---
